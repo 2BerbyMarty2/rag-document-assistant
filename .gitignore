@@ -1,0 +1,14 @@
+# IDE and editor directories
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.vscode/
+data_bucket/
+final_data/*
+models/*
+venv/
+
+# Environment variables
+.env

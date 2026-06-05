@@ -1,0 +1,25 @@
+# --- Core RAG & LLM Libraries ---
+# Framework for building language model applications
+langchain
+# For using OpenAI's models (GPT-4, embeddings, etc.)
+openai
+# Tokenizer for OpenAI models, used by LangChain
+tiktoken
+
+# --- Vector Store & Embeddings ---
+# For creating and searching through document embeddings
+faiss-cpu
+# For generating high-quality sentence embeddings locally
+sentence-transformers
+
+# --- Data Handling & Environment ---
+# For loading and parsing PDF documents (a common format)
+pypdf
+# For managing environment variables (e.g., API keys) from a .env file
+python-dotenv
+
+# --- Notebooks & UI (Optional but Recommended) ---
+# For interactive development and experimentation
+jupyter
+# For quickly building a web-based user interface for your assistant
+streamlit
