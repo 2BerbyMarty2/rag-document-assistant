@@ -4,10 +4,11 @@
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-.vscode/
+
+# Data, Models, and Virtual Environment
 data_bucket/
-final_data/*
-models/*
+final_data/
+models/
 venv/
 
 # Environment variables
