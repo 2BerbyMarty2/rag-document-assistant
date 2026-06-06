@@ -5,11 +5,28 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data, Models, and Virtual Environment
-data_bucket/
-final_data/
-models/
+# Python environment
 venv/
+.venv/
 
 # Environment variables
 .env
+
+# Data (IMPORTANT: be specific to avoid accidentally ignoring everything useful)
+data_archive/
+final_data/
+data/
+
+# Models (large files / local LLM weights)
+models/
+
+# Cache and system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Logs
+*.log
+logs/
