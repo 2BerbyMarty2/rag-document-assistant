@@ -113,15 +113,15 @@ OPENAI_API_KEY="your_openai_api_key_here"
 ⸻
 
 ## Usage
+# Not implimented yet
 
 1. Place source documents (PDFs, JSON metadata, text files) into data_bucket/
 2. Run ingestion script (if applicable) to build vector store
 3. Start the application:
 
-streamlit run app.py
 
 ⸻
-
+```
 ### Example Metadata Format
 
 {
