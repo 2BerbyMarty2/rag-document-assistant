@@ -1,6 +1,8 @@
 # RAG Document Assistant
 ## Overview
-This project is a **Retrieval-Augmented Generation (RAG)** assistant designed to answer questions about a specific corpus of documents. It uses modern language models and vector search to provide contextually-aware answers based on provided data, such as detailed YouTube video metadata.
+
+- This project is a **Retrieval-Augmented Generation (RAG)** assistant designed to answer questions about a specific corpus of documents. It uses modern language models and vector search to provide contextually-aware answers based on provided data, such as detailed YouTube video metadata.
+  
 ---
 ## Video Metadata (Example Dataset)
 - **Video ID:** `sl9QP3gcWOQ`
